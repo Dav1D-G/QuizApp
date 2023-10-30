@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "question": "Co to jest NoSQL?",
+      "options": [
+        "NoSQL to rodzaj baz danych, który nie stosuje tradycyjnego modelu relacyjnego (SQL).", 
+        "NoSQL to skrót od 'Not Only SQL' i odnosi się do różnych typów baz danych.", 
+        "NoSQL pozwala na przechowywanie danych w różnych formatach, takich jak dokumenty, grafy, kolumny czy klucze-wartości.", 
+        "NoSQL jest często wykorzystywane w aplikacjach wymagających skalowalności i przechowywania danych o zróżnicowanej strukturze."],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Czym jest REST?",
+      "options": [
+        "REST to język programowania używany w tworzeniu serwisów internetowych.",
+       "REST to rodzaj bazy danych stosowany w systemach internetowych.", 
+       "REST to protokół komunikacji wykorzystywany w technologii blockchain.", 
+       "REST to styl architektury oprogramowania stosowany w projektowaniu interfejsów aplikacji internetowych."],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Czym jest GIT?",
+      "options": ["GIT to rozproszony system kontroli wersji, używany do zarządzania kodem źródłowym projektów.",
+       "GIT to skrót od 'Global Information Tracker' i służy do śledzenia aktywności w internecie.", 
+       "GIT to rodzaj bazy danych stosowany do przechowywania informacji o użytkownikach.", 
+       "GIT to język programowania używany w tworzeniu aplikacji webowych."],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Czym jest API?",
+      "options": [
+        "API to skrót od 'Application Programming Interface' i oznacza zestaw reguł i protokołów umożliwiających programistom korzystanie z funkcji oprogramowania.",
+       "API to system interakcji między oprogramowaniem, który umożliwia aplikacjom komunikację i dostęp do usług innych programów.",
+        "API to język programowania używany do tworzenia aplikacji internetowych.",
+         "API to narzędzie do analizy danych używane w naukach społecznych."],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Czym jest Obietnica (promise w JS)?",
+      "options": [
+        "Obietnica to rodzaj pętli w JavaScript, używany do powtarzania operacji w kodzie.",
+        "Obietnica to metoda w JavaScript, która pozwala na utrzymanie danych w bezpieczny sposób.",
+        "Obietnica (promise) to sposób zarządzania asynchronicznym kodem w JavaScript, umożliwiający obsługę wyników operacji, które mogą potrwać pewien czas.",
+        "Obietnica to typ danych w JavaScript, który służy do przechowywania funkcji zwrotu (callback) i obsługi błędów."
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Co to jest JWT ? ",
+      "options": [
+        "JWT to skrót od 'Java Web Technology' i jest używany do tworzenia interfejsów użytkownika w języku Java.",
+       "JWT to metoda kodowania i przesyłania danych w formie tokenów w formacie JSON.",
+        "JWT to narzędzie do zarządzania bazami danych w języku JavaScript.",
+         "JWT to standard umożliwiający bezpieczne przechowywanie i przesyłanie informacji jako tokeny w formie JSON."],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Co to jest Callback Hell ?",
+      "options": [
+        "Callback hell to termin odnoszący się do sytuacji, w której kod zawiera zbyt wiele zagnieżdżonych funkcji zwrotnych, co utrudnia czytelność i zarządzanie kodem.",
+        "Callback hell to specyficzny rodzaj błędu w języku JavaScript, który pojawia się przy próbie korzystania z funkcji zwrotnych.",
+        "Callback hell to popularny wzorzec projektowy stosowany w programowaniu asynchronicznym, który ułatwia zarządzanie kolejnością wywołań zwrotnych.",
+        "Callback hell to technika używana w programowaniu równoległym do zarządzania współbieżnością w aplikacjach wielowątkowych."
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Co to jest Autoryzacja ?",
+      "options": [
+        "Autoryzacja to proces uwierzytelniania użytkownika przy użyciu hasła i loginu.",
+        "Autoryzacja to proces identyfikacji użytkownika w systemie, który pozwala na określenie uprawnień i dostępu do zasobów.",
+        "Autoryzacja to proces szyfrowania danych w celu ich ochrony przed nieautoryzowanym dostępem.",
+        "Autoryzacja to proces przechowywania i archiwizacji danych w systemie informatycznym."
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Co to jest Autentyfikacja ?",
+      "options": [
+        "Autentyfikacja to proces ochrony danych przed dostępem osób niepowołanych poprzez użycie odpowiednich zabezpieczeń.",
+        "Autentyfikacja to proces uwierzytelniania tożsamości użytkownika w systemie, np. poprzez hasło, klucz, odcisk palca, lub inną formę identyfikacji.",
+        "Autentyfikacja to proces szyfrowania danych w celu zabezpieczenia ich poufności.",
+        "Autentyfikacja to proces tworzenia kopii zapasowych danych w systemie informatycznym."
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Co to jest KISS ? ",
+      "options": [
+        "KISS to metoda kodowania w języku programowania, która redukuje ilość linii kodu w projekcie.",
+        "KISS to strategia projektowania, która promuje złożone i rozbudowane rozwiązania.",
+        "KISS to skrót od 'Knowledge Integration and Storage System' i jest używany w analizie danych.",
+        "KISS to zasada projektowania, która zachęca do tworzenia rozwiązań możliwie prostych i zrozumiałych."
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Co to jest wzorzec BUILDER ?",
+      "options": [
+        "Wzorzec Builder to technika stosowana w budownictwie do konstrukcji budynków.",
+        "Wzorzec Builder to wzorzec projektowy, który ułatwia konstrukcję skomplikowanych ",
+        "Wzorzec Builder to popularna metoda kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "Wzorzec Builder to narzędzie stosowane w analizie danych w celu przygotowania zestawu danych do analizy."
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Czym się różni Http od Https ?",
+      "options": [
+        "HTTP i HTTPS to dwa różne protokoły komunikacji internetowej, ale różnią się tylko jednym literą.",
+        "HTTP to protokół niezabezpieczony, podczas gdy HTTPS to protokół zabezpieczony.",
+        "HTTP jest używane tylko do przeglądania stron internetowych, podczas gdy HTTPS służy do przesyłania danych w Internecie.",
+        "HTTP to protokół stosowany w przeglądarkach, a HTTPS to protokół wykorzystywany w aplikacjach mobilnych."],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Co to jest async , await ?",
+      "options": [
+        "async i await to dwie funkcje matematyczne używane do obliczeń w języku JavaScript.",
+        "async i await to metody stosowane w animacjach i grafice komputerowej.",
+        "async i await to słowa kluczowe używane w JavaScript do tworzenia funkcji asynchronicznych i czekania na ich rezultat.",
+        "async i await to narzędzia do debugowania kodu w języku JavaScript."
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Co to jest hoisting w JS ?",
+      "options": [
+        "Hoisting to technika kompresji kodu w języku JavaScript.",
+        "Hoisting to proces automatycznego podnoszenia deklaracji zmiennych i funkcji na początek zakresu ich widoczności w kodzie.",
+        "Hoisting to metoda optymalizacji wydajności kodu JavaScript.",
+        "Hoisting to skrót od 'Hosted Internet Service' który odnosi się do usług hostingowych."
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Co to jest CI/CD ?",
+      "options": [
+        "CI/CD to skrót od 'Continuous Integration and Continuous Development' i jest używany do budowy aplikacji mobilnych.",
+        "CI/CD to skrót od 'Cloud Integration and Centralized Deployment' i odnosi się do zarządzania zasobami w chmurze.",
+        "CI/CD to praktyka, która polega na ciągłym testowaniu, integracji i dostarczaniu oprogramowania, aby skrócić cykl wytwarzania i zwiększyć jakość produktu.",
+        "CI/CD to metoda programowania komputerów w języku Java."
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Co to jest Node.js ?",
+      "options": [
+        "Node.js to framework do budowania interfejsów użytkownika w języku JavaScript.",
+        "Node.js to narzędzie do tworzenia baz danych i serwisów internetowych.",
+        "Node.js to przeglądarka internetowa opracowana przez Microsoft.",
+        "Node.js to środowisko uruchomieniowe, które pozwala na wykonywanie kodu JavaScript po stronie serwera."
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Co to jest CRUD ?",
+      "options": [
+        "CRUD to system kontroli dostępu w bazach danych.",
+        "CRUD to skrót od 'Computer-Related Universal Data' i oznacza ogólne dane komputerowe.",
+        "CRUD to standardowy zestaw operacji do zarządzania danymi w bazach danych, włączając w to tworzenie, odczyt, aktualizację i usuwanie danych.",
+        "CRUD to skrót od 'Centralized Resource Usage Database' i jest używany w zarządzaniu zasobami w chmurze."
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Czym się różni SQL od NoSQL ?",
+      "options": [
+        "SQL i NoSQL to dwie różne wersje języka programowania JavaScript.",
+        "SQL to rodzaj bazy danych opartej na modelu relacyjnym, podczas gdy NoSQL to kategoria baz danych, które nie stosują tradycyjnego modelu relacyjnego.",
+        "SQL jest wyłącznie używane w aplikacjach internetowych, podczas gdy NoSQL znajduje zastosowanie w innych dziedzinach, takich jak analiza danych.",
+        "SQL i NoSQL to dwie nazwy tego samego typu bazy danych."
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Która baza z wymienionych poniżej jest NoSQL ?",
+      "options": [
+        "MongoDB",
+        "Postgres",
+        "MiniO",
+        "MySQL"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Za co odpowiada Docker ? ",
+      "options": [
+        "Docker odpowiada za projektowanie interfejsów użytkownika w aplikacjach webowych.",
+        "Docker to narzędzie do kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "Docker to platforma umożliwiająca izolację i uruchamianie aplikacji w kontenerach, co ułatwia ich przenoszenie między różnymi środowiskami.",
+        "Docker to system operacyjny stosowany w przemyśle morskim do transportu towarów."
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Co to jest MVC ?",
+      "options": [
+        "MVC to skrót od 'Many Variables in Code' i odnosi się do techniki programowania komputerów.",
+        "MVC to narzędzie do tworzenia grafiki 3D w grach komputerowych.",
+        "MVC to metoda kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "MVC to wzorzec projektowy, który pomaga w organizacji kodu w aplikacjach oprogramowania."
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Co to są Mikrousługi ?",
+      "options": [
+        "Mikrousługi to małe programy komputerowe używane w branży mikroelektroniki.",
+        "Mikrousługi to technika kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "Mikrousługi to usługi społecznościowe, które łączą ludzi w sieci.",
+        "Mikrousługi to architektura oprogramowania, w której aplikacja jest rozbijana na mniejsze, niezależne usługi, które komunikują się ze sobą."
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Co to jest CQRS ?",
+      "options": [
+        "CQRS to narzędzie do tworzenia relacyjnych baz danych.",
+        "CQRS to skrót od 'Centralized Query and Reporting System' i służy do raportowania danych.",
+        "CQRS to wzorzec projektowy, który segreguje operacje zapisu i odczytu w aplikacji.",
+        "CQRS to język programowania stosowany w analizie danych."
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Co to jest ORM ?",
+      "options": [
+        "ORM to technika, która umożliwia mapowanie obiektów i relacji w bazie danych.",
+        "ORM to narzędzie do kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "ORM to standard w branży muzycznej, który reguluje wydawanie albumów.",
+        "ORM to rodzaj języka programowania używanego w analizie danych."
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Co to jest GitLab ?",
+      "options": [
+        "GitLab to platforma do tworzenia gier komputerowych.",
+        "GitLab to system do zarządzania projektami labolatoryjnymi związanymi z organizacją ludzi ",
+        "GitLab to narzędzie do analizy danych w naukach społecznych.",
+        "GitLab to platforma umożliwiająca współpracę programistów nad kodem źródłowym i zarządzanie projektem informatycznym."
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Co to jest Attlassian ?",
+      "options": [
+        "Atlassian to rodzaj języka programowania stosowanego w analizie danych.",
+        "Atlassian to narzędzie do kompresji plików w celu zaoszczędzenia miejsca na dysku. ",
+        "Atlassian to australijska firma oferująca oprogramowanie i narzędzia wspierające rozwijanie oprogramowania oraz zarządzanie projektami.",
+        "Atlassian to popularna platforma do gier komputerowych."
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Co to jest Programowanie Obiektowe ?",
+      "options": [
+        "Programowanie obiektowe to technika kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "Programowanie obiektowe to rodzaj języka programowania stosowanego w analizie danych. ",
+        "Programowanie obiektowe to paradygmat programowania, który opiera się na koncepcji obiektów i ich wzajemnych relacji, co pozwala na modelowanie rzeczywistych problemów w kodzie źródłowym.",
+        "Programowanie obiektowe to skrót od 'Olive Oil Production' co odnosi się do przemysłu produkcji oliwy z oliwek."
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Co to jest scope w JS?",
+      "options": [
+        "Scope to kontekst lub zakres, w którym zmienna jest dostępna w kodzie JavaScript.",
+        "Scope to narzędzie do kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "Scope to skrót od 'Scope of Work' i odnosi się do zakresu prac w projekcie. ",
+        "Scope to rodzaj języka programowania stosowany w analizie danych."
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Co to jest DOM w JS?",
+      "options": [
+        "DOM to narzędzie do tworzenia animacji w języku JavaScript.",
+        "DOM to skrót od 'Data Object Model' i służy do zarządzania danymi w aplikacjach.",
+        "DOM to rodzaj bazy danych stosowanej w aplikacjach internetowych.",
+        "DOM to reprezentacja struktury dokumentu HTML lub XML w formie drzewa obiektów, z którą można interagować za pomocą JavaScript. "
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Na czym polega Wzorzec Modułu (Revealing Module Pattern)?",
+      "options": [
+        "Wzorzec Modułu to metoda tworzenia struktury danych w języku JavaScript.",
+        "Wzorzec Modułu pozwala na tworzenie prywatnych i publicznych składowych w module, kontrolując dostęp do nich.",
+        "Wzorzec Modułu to technika programowania, która zakłada użycie tylko zmiennych globalnych w kodzie.",
+        "Wzorzec Modułu to rodzaj animacji stosowanej w grach komputerowych."
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Co to jest ESlint ?",
+      "options": [
+        "ESLint to rodzaj języka programowania stosowany w analizie danych.",
+        "ESLint to narzędzie do kompresji plików w celu zaoszczędzenia miejsca na dysku.",
+        "ESLint to platforma do tworzenia gier komputerowych.",
+        "ESLint to narzędzie do analizy statycznej kodu źródłowego JavaScript, które pomaga w identyfikowaniu błędów i niezgodności ze stylem kodu."
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Co to jest Unit Tests ?",
+      "options": [
+        "Unit tests to testy przeprowadzane na poziomie całego systemu, aby sprawdzić jego działanie jako całości.",
+        "Unit tests to testy, które nie są używane w procesie rozwoju oprogramowania.",
+        "Unit tests to testy przeprowadzane na poziomie jednostek kodu, takich jak funkcje czy metody, w celu zweryfikowania ich poprawności.",
+        "Unit tests to testy jednostkowe, które sprawdzają zachowanie użytkowników w interfejsie graficznym aplikacji."
+      ],
+      "correctOption": 2,
+      "points": 20
+    }
+  ]
+}
